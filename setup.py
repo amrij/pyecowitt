@@ -8,8 +8,8 @@ def readme():
 
 setup(name='pyecowitt',
       version='0.10',
-      description='Module to communicate with homesystem',
-      long_description='Module to communicate with homesystem',
+      description='Module to communicate with ecowitt',
+      long_description='Module to communicate with ecowitt',
       url='https://github.com/amrij/pyecowitt',
       classifiers=[
           'Development Status :: 1 - Beta',
