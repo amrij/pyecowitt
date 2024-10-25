@@ -7,7 +7,7 @@ def readme():
 
 
 setup(name='pyecowitt',
-      version='0.10',
+      version='0.7',
       description='Module to communicate with ecowitt',
       long_description='Module to communicate with ecowitt',
       url='https://github.com/amrij/pyecowitt',
